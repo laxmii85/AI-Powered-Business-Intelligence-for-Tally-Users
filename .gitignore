@@ -1,0 +1,66 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+.pytest_cache/
+.python-version
+env/
+venv/
+ENV/
+.venv/
+build/
+dist/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+*.log
+
+# Virtual environment folders
+*/venv/
+*/.venv/
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Environment variables
+.env
+.env.*
+
+# macOS
+.DS_Store
+
+# Node / frontend
+node_modules/
+pnpm-lock.yaml
+package-lock.json
+yarn.lock
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Vite
+dist/
+.vite/
+
+# Logs
+*.log
+
+# OS files
+Thumbs.db
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Backend cache
+__pycache__/
+
+# Local build artifacts
+coverage/
