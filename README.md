@@ -44,6 +44,12 @@ Backend environment variables:
 ## API
 
 - `POST /api/uploads` upload CSV/XLSX dataset
+
+https://github.com/user-attachments/assets/e66b22d9-9815-48ef-b0be-05f5f73f3b81
+
+
+
+
 - `GET /api/uploads` list datasets
 - `GET /api/uploads/{id}` dataset metadata
 - `GET /api/dashboard/{id}` dashboard KPIs, charts, insights
